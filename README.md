@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @i-am-yay-code, my name is Anton Yagushchin
-- 👀 I am ukrainian web-developer, I’m interested in front-end and web technologies 
+- 👀 I am ukrainian💙💛 web-developer, I’m interested in front-end and web technologies 
 - 🌱 I’m currently learning HTML/CSS and JS
 - 💞️ I’m looking to collaborate on different projects and complete my portfolio
 - 📫 How to reach me:
