@@ -6,7 +6,6 @@
     My instagram - @i_am_yay_code,
     My twitter - @i_am_yay_code
     My email - i.am.yay.code@gmail.com
-- ✔ Please, check my last project: https://test-task-frontend-one.vercel.app/
 <!---
 i-am-yay-code/i-am-yay-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
